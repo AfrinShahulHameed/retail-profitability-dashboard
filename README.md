@@ -5,6 +5,19 @@
 
 ---
 
+## Dashboard Preview
+
+**Executive Overview**
+![Executive Overview](screenshots/Executive%20Overview.png)
+
+**Category Deep-Dive**
+![Category Deep-Dive](screenshots/Category%20Deep-Dive.png)
+
+**Regional & Product Performance**
+![Regional and Product Performance](screenshots/Regional%20%26%20Product%20Performance.png)
+
+---
+
 ## 1. Business Problem
 
 Leadership at a mid-size retail chain suspects some product categories look strong on revenue but are quietly bleeding margin, and that certain products are running out at the wrong times. They asked for one view that shows **profitability and inventory health together** — not just a sales report.
